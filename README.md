@@ -1,8 +1,6 @@
 # Python CHESS
 A GUI chess game, all written in Python. 
-* Later will add AI
-<br>
-![](images/Chess.png)
+Later will add AI
 
 
 ## Credits
