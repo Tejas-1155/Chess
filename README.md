@@ -1,6 +1,7 @@
 # Python CHESS
 A GUI chess game, all written in Python. 
 Later will add AI
+Struggling to add features to the UI like the one in Lichess. (Can check in Issues)
 
 
 ## Credits
