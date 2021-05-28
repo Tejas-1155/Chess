@@ -2,7 +2,7 @@
 A GUI chess game, all written in Python. 
 * Later will add AI
 <br>
-![](Chess.png)
+![](images/Chess.png)
 
 
 ## Credits
